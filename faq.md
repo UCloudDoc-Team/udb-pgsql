@@ -1,6 +1,6 @@
 # FAQs
 
-{{indexmenu_n>6}}
+
 
 ## 如何访问PostgreSQL实例？
 
