@@ -16,7 +16,7 @@ $User指定PostgreSQL实例的管理员名称。
 
 $postgres指定数据库
 
-例如控制台上创建PostgreSQL实例，端口默认为5432、ip为10.19.11.111，管理员账户root：
+例如控制台上创建PostgreSQL实例，端口默认为5432、ip为10.19.11.111，管理员root：
 ```
 psql -U root -h 10.19.11.111 -p 5432  -d postgres 
 ```
