@@ -10,7 +10,9 @@
 
 ![image](/images/pgv4start.png)
 
+
 ![image](/images/pgv4start1.png)
+
 
 如果需要同时启动多个PostgreSQL实例，选择相应的PostgreSQL实例，选择列表页面上方的“启动”，弹出的对话框选择“确定”，即可启动多个PostgreSQL实例。
 
