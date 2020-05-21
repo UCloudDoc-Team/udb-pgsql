@@ -74,11 +74,11 @@ PostgreSQL实例支持手动备份，用户可以保存某些关键时间点的�
 
 查看所有PostgreSQL实例的备份文件，点击左侧导航栏的“备份管理”即可。
 
-![image](/images/202005001.png)
+![image](/images/pgsql202005001.png)
 
 对于某一实例，进入实例管理页面，点击备份管理，选择手工备份之后，弹出对话框可以输入备份名称。
 
-![image](/images/202005002.png)
+![image](/images/pgsql202005002.png)
 
 ![image](/images/pgv4backup1.png)
 
