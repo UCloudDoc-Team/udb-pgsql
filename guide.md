@@ -10,9 +10,7 @@
 
 ![image](/images/pgv4start.png)
 
-
 ![image](/images/pgv4start1.png)
-
 
 如果需要同时启动多个PostgreSQL实例，选择相应的PostgreSQL实例，选择列表页面上方的“启动”，弹出的对话框选择“确定”，即可启动多个PostgreSQL实例。
 
@@ -167,3 +165,4 @@ PostgreSQL支持数据库回档创建，如因误操作造成数据删除或者�
 选中PostgreSQL实例，在右侧详情页选择查看操作日志。
 
 ![image](/images/pgv4log1.png)
+
