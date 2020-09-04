@@ -10,6 +10,8 @@
 
 ![image](/images/pgsql20200904.png)
 
+普通版PostgreSQL支持PostgreSQL9.6&PostgreSQL10.4版本，高可用版PostgreSQL支持PostgreSQL9.6版本。
+
 3、设置实例名称、端口号和管理员密码。PostgreSQL默认端口号为5432，管理员用户名默认为root。为了数据安全，管理员密码需要一定的复杂度。创建页面右侧可以选择付费方式和数量，系统会根据选择计算费用，页面右侧会显示所需支付费用。
 
 ![image](/images/pgv4-003.png)
