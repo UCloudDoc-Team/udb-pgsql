@@ -22,7 +22,7 @@ psql -U root -h 10.19.11.111 -p 5432  -d postgres
 ```
 PostgreSQL实例仅支持通过云主机进行内网登陆。
 
-## postgresql的最大连接数是多少？
+## PostgreSQL的最大连接数是多少？
 
 max\_connections是最大连接数，即允许客户端连接的最大连接数，增大连接可以允许接入更多的客户端，但设置过大同样会造成DB启动失败。目前postgresql产品1G内存支持70个连接
 
